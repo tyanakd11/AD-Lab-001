@@ -1,5 +1,7 @@
 # Lab 1 — Active Directory
 ### Windows Server 2025 · Azure Free Account · Identity & Access Management
+Watch me do this lab !![
+](https://www.loom.com/share/2b2b9cb05cbc412b90a5dd8a91e6dd07)
 
 ![Active Directory](https://img.shields.io/badge/Windows_Server-2025-0078D4?style=flat&logo=windows&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Free_Tier-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
